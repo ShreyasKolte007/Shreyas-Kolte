@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kartikpawar876?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEYoDleagRFGIERaCuH%2BQSw%3D%3D" target="_blank">
+  <a href="www.linkedin.com/in/shreyas-kolte-350477273Vanity URL name"_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
